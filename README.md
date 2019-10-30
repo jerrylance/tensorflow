@@ -1,2 +1,2 @@
 # tensorflow
-learning and program with tensorflow
+learning and working with tensorflow
